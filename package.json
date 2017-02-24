@@ -1,0 +1,23 @@
+{
+  "name": "mark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "mine": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nshutiyvan/amazonclone.git"
+  },
+  "author": "Nshuti Yvan Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nshutiyvan/amazonclone/issues"
+  },
+  "homepage": "https://github.com/nshutiyvan/amazonclone#readme"
+}
